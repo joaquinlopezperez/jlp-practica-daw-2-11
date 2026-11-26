@@ -1,0 +1,11 @@
+#Archivo con contraseñas  
+
+scripts/.env  
+
+# Copias de seguridad (contienen datos de la base de datos)  
+
+*.tar.gz  
+
+*.sql  
+
+*.sha256
